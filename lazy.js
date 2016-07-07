@@ -23,8 +23,6 @@ $(function() {
         });
     }
 
-    //&& !self.closest('.grid').length
-
     $(window).scroll(function(){
         var x = $(this).scrollTop();
         lazyLoad(x);
