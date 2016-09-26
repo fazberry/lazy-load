@@ -2,7 +2,7 @@
 
 Add lazy.js to the footer of your site just below jquery.
 
-Lazy load ```<img>``` or background-images on image scroll.
+Lazy load ```<img>``` or background-images on page scroll.
 
 **In your HTML image tag just add data-image e.g:**
 
